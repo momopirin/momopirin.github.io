@@ -6,10 +6,42 @@
     <description>Recent content in Posts on Momo&#39;s nest.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2020 19:17:33 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 19:59:05 -0500</lastBuildDate>
     
 	<atom:link href="https://momopirin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Momo and Married Guy Story</title>
+      <link>https://momopirin.github.io/post/momo-and-married-guy-story/</link>
+      <pubDate>Mon, 18 May 2020 19:59:05 -0500</pubDate>
+      
+      <guid>https://momopirin.github.io/post/momo-and-married-guy-story/</guid>
+      <description>最近玩自动生成小故事的站点玩得不亦乐乎，觉得这家生成的还蛮不错的23333 转帖来分享一下。
+《我的男友懂礼貌》
+今天是元宵节，已婚男和摸摸酱在家自己做元宵吃，已婚男问摸摸酱：老婆，你最喜欢吃什么馅的元宵啊？
+摸摸酱说：我最喜欢吃桃子，你呢？
+已婚男说：我最喜欢吃牙膏，要不咱们用草莓加上牙膏再加四袋糖做一份元宵吧？
+摸摸酱一听：这个创意好！那咱们就开始吧。
+于是已婚男开始钻木取火，摸摸酱开始用少林功夫揉面&amp;hellip;&amp;hellip;
+没多一会，已婚男和摸摸酱就合伙做出了正方形的元宵，美味极了&amp;hellip;&amp;hellip;
+可是吃完元宵之后，一个横在已婚男和摸摸酱之间多年的问题出现了！
+谁洗碗！！！
+已婚男：“我比你大，这个碗应该你来洗。”
+摸摸酱：“不，你是老公，这个碗应该你来洗。”
+已婚男：“不，你今天累坏了，这个碗应该你来洗。”
+摸摸酱：“不，你有腰间盘突出，这个碗还是你洗吧。”
+已婚男：“那你还来大姨妈了呢，还是你洗吧。”
+摸摸酱：“可是你也很想洗对不对？还是你来洗吧”
+&amp;hellip;&amp;hellip;
+就在他们争执不下的时候，他们的宝宝从被子里掀开了一个小孔，满脸笑容说的对他们说：
+“能过过，不能过赶紧tm离，艹，睡个觉都你妈睡不好！”
+这就是著名的《孔容让离》的故事。
+虽然宝宝让他们离，但是已婚男和摸摸酱情比金坚，怎么可能离？
+最后他们把年仅三岁的宝宝从被子里拽了出来，并强迫他把碗洗了。
+就这样，已婚男和摸摸酱过上了幸福快乐的生活。
+再也没有烦恼。</description>
+    </item>
     
     <item>
       <title>Hello World</title>
@@ -17,7 +49,8 @@
       <pubDate>Mon, 18 May 2020 19:17:33 -0500</pubDate>
       
       <guid>https://momopirin.github.io/post/hello-world/</guid>
-      <description>已经记不得这是我第几次尝试 deploy Hugo to Github page 了。Hopefully, this time it will work.</description>
+      <description>已经记不得这是我第几次尝试 deploy Hugo to Github page 了。Hopefully, this time it will work.
+// 觉得自己至少尝试了不下6次的说…… 上次用 Hugo 是直接把 public/ 丢到服务器上给 Nginx 处理了，这次我其实预感到应该是一样的结局（因为 Github Pages 必然是要 serve 静态页面的不是），可是我没有认真读教程 导致吃瘪了。应该这么说，我是一直在这个页面上，不过我是从这里开始的。我第一次弄 Hugo Hello World site 的时候好像也有类似问题。Anyways，这件事就是告诉我们：莫装逼，装逼被雷劈。不要以为自己用了一次就很熟了，还有我还真没用过 git submodules 看着还真香（来多个文件夹 track 不同 repo 多好玩）。现在我大部分还有在写字的地方都是英文的了，我争取来这里多写点中文吧（退化好严重了最近）</description>
     </item>
     
   </channel>
